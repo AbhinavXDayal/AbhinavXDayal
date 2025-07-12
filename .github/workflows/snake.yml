@@ -9,13 +9,17 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate snake animation
+        uses: Platane/snk@v3
         with:
           github_user_name: AbhinavXDayal
           outputs: |
             dist/snake.svg
 
-      - name: Push to GitHub
+      - name: Commit & push
         uses: EndBug/add-and-commit@v9
         with:
           author_name: github-actions
