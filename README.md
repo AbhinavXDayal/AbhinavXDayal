@@ -12,5 +12,5 @@ I write clean code, chase good UX & sometimes trade commits for passport stamps 
 <br clear="both">
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AbhinavXDayal/AbhinavXDayal/output/snake.svg" alt="Snake animation" />
+  <img src="dist/snake.svg" alt="Snake animation" />
 </div>
