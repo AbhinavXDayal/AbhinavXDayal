@@ -8,3 +8,5 @@ I write clean code, chase good UX & sometimes trade commits for passport stamps 
 | :--: | :--: | :--: |
 
 > Generated with [github-profile-summary-cards](https://github.com/vn7n24fzk/github-profile-summary-cards)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productivity?username=AbhinavXDayal&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbhinavXDayal&theme=dracula)
