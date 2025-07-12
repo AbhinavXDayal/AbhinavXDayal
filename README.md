@@ -7,8 +7,10 @@ I write clean code, chase good UX & sometimes trade commits for passport stamps 
 | ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AbhinavXDayal&theme=tokyonight) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbhinavXDayal&theme=tokyonight) | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbhinavXDayal&theme=tokyonight) |
 | :--: | :--: | :--: |
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbhinavXDayal&theme=tokyonight" width="100%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbhinavXDayal&theme=tokyonight" width="100%" style="margin:0; padding:0;">
 
-<a href="https://raw.githubusercontent.com/AbhinavXDayal/AbhinavXDayal/output/snake.svg">
-  <img src="https://raw.githubusercontent.com/AbhinavXDayal/AbhinavXDayal/output/snake.svg" width="100%" alt="Snake animation"/>
-</a>
+<br clear="both">
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AbhinavXDayal/AbhinavXDayal/output/snake.svg" alt="Snake animation" width="100%" style="max-width:100%; margin:0; padding:0;" />
+</div>
