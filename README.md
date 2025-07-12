@@ -9,8 +9,5 @@ I write clean code, chase good UX & sometimes trade commits for passport stamps 
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbhinavXDayal&theme=dracula" width="100%">
 
-<br clear="both">
+![Snake animation](https://raw.githubusercontent.com/<AbhinavXDayal>/<AbhinavXDayal>/output/snake.svg)
 
-<div align="center">
-  <img src="dist/snake.svg" alt="Snake animation" />
-</div>
